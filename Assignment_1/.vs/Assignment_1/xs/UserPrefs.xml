@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A428C61A-9697-43E8-3415-AD7713E2F5E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/CarAI.cs">
+    <Files>
+      <File FileName="Assets/Scrips/CarAI.cs" Line="63" Column="71" />
+      <File FileName="Assets/Scrips/DroneAI.cs" Line="65" Column="25" />
+      <File FileName="Assets/Scrips/TrajectoryLogger.cs" Line="91" Column="35" />
+      <File FileName="Assets/Scrips/TerrainManager.cs" Line="37" Column="13" />
+      <File FileName="Assets/Scrips/GameManager.cs" Line="25" Column="75" />
+      <File FileName="Assets/Scrips/CarAI_PD_tracker.cs" Line="34" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scrips" expanded="True">
+                <Node name="CarAI.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b11d4b90-7d0b-4175-8ea5-8c32e419e3a6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
