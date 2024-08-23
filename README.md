@@ -4,8 +4,13 @@ Labs for Unity Multi Agent Vehicles
 This repo contains the individual work contribution to the group project.
 
 Main code contribution:
-- CarAI.cs
-- CarAI_PD_tracker.cs
+- Assets/Scrips/CarAI.cs
+- Assets/Scrips/Planner.cs
+- Assets/Scrips/Mapper.cs
+- Assets/Scrips/CarAI_PD_tracker.cs
+- Assets/Scrips/DouglasPeucker.cs
+- Assets/Scrips/PurePursuit.cs
+- Assets/Scrips/RandomMovement.cs
 
 
 ## Contents 
